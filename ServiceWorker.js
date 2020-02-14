@@ -1,4 +1,4 @@
-const baseURL = '/BlazorPWATest/';
+const baseURL = '/';
 const indexURL = '/index.html';
 const networkFetchEvent = 'fetch';
 const swInstallEvent = 'install';
@@ -11,7 +11,7 @@ const requiredFiles = [
 "/_framework/blazor.webassembly.js",
 "/_framework/wasm/mono.js",
 "/_framework/wasm/mono.wasm",
-"/_framework/_bin/BlazorPWATest.dll",
+"/_framework/_bin/BlazorBridgeCalc.dll",
 "/_framework/_bin/Microsoft.AspNetCore.Authorization.dll",
 "/_framework/_bin/Microsoft.AspNetCore.Blazor.dll",
 "/_framework/_bin/Microsoft.AspNetCore.Blazor.HttpClient.dll",

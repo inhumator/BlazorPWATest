@@ -1,7 +1,7 @@
 {
-  "short_name": "BlazorPWATest",
-  "name": "BlazorPWATest",
-  "start_url": "/BlazorPWATest/",
+  "short_name": "BlazorBridgeCalc",
+  "name": "BlazorBridgeCalc",
+  "start_url": "/",
   "display": "standalone",
   "icons": [
     {
